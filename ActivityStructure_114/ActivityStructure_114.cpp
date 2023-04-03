@@ -10,9 +10,8 @@ struct mahasiswa
 };
 
 int main() {
-    mahasiswa mhs1, mhs2;
-
-    mhs1.NIM = "20220140114"
+    
+  
 
     
 }
