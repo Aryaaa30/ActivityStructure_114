@@ -16,13 +16,12 @@ struct Mahasiswa
 };
 
 
+int main() {
+    Mahasiswa mhs;
 
 
 
-
-int main()
-{
-    std::cout << "Hello World!\n";
+    
 }
 
 
